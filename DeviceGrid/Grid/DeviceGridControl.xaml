@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="SmartHome.DeviceGrid.Grid.DeviceGridControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SmartHome.DeviceGrid.Grid"
+             xmlns:widget="clr-namespace:SmartHome.DeviceGrid.Widget"
+             mc:Ignorable="d" 
+             d:DesignHeight="800" d:DesignWidth="500">
+    <Border Padding="20">
+        <ItemsControl x:Name="DeviceWidgetsList" 
+                      ItemsSource="{Binding Widgets}">
+
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <WrapPanel />
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <widget:DeviceWidgetControl ViewModel="{Binding}"  Margin="10"/>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+    </Border>
+</UserControl>

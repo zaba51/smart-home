@@ -1,0 +1,42 @@
+﻿<UserControl x:Class="SmartHome.DeviceGrid.Widget.DeviceWidgetControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SmartHome.DeviceGrid.Widget"
+             mc:Ignorable="d" 
+             d:DesignHeight="100" d:DesignWidth="150">
+    <Button x:Name="DeviceButton" 
+            Content="{Binding DeviceName}" 
+            Width="150" Height="100" 
+            Click="DeviceWidget_OnClick" Cursor="Hand" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right">
+        <Button.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform/>
+                <SkewTransform AngleX="0"/>
+                <RotateTransform/>
+                <TranslateTransform/>
+            </TransformGroup>
+        </Button.RenderTransform>
+        <Button.Style>
+            <Style TargetType="Button">
+                <Setter Property="Background" Value="LightGray"/>
+                <Setter Property="BorderThickness" Value="1"/>
+                <Setter Property="BorderBrush" Value="Transparent"/>
+
+                <Style.Triggers>
+                    <DataTrigger Binding="{Binding IsSelected}" Value="True">
+                        <Setter Property="Background" Value="LightGreen"/>
+                        <Setter Property="BorderThickness" Value="3"/>
+                        <Setter Property="BorderBrush" Value="DarkGreen"/>
+                    </DataTrigger>
+
+                    <Trigger Property="IsMouseOver" Value="True">
+                        <Setter Property="Background" Value="Red"/>
+                    </Trigger>
+
+                </Style.Triggers>
+            </Style>
+        </Button.Style>
+    </Button>
+</UserControl>
