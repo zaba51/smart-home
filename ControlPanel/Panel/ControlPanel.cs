@@ -17,7 +17,7 @@ namespace SmartHome.ControlPanel
 
         public IDevice? SelectedDevice { get; private set; }
 
-        public string DeviceInfo => SelectedDevice?.GetStatus() ?? "";
+        public string DeviceInfo => "" ?? SelectedDevice?.GetStatus();
 
         public ControlPanel() { 
             _controlService = ControlService.GetInstance();

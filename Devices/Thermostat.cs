@@ -7,17 +7,29 @@ using System.Threading.Tasks;
 
 namespace SmartHome.Devices
 {
-    public class Thermostat: IDevice
+    public class Thermostat: DeviceBase, IDevice
     {
         public string Name { get; private set; }
-        public int Temperature { get; set; }
+
+        private int _temperature;
+        public int Temperature {
+            get
+            {
+                return _temperature;
+            }
+            set
+            {
+                _temperature = value;
+                _mediator?.Notify(this);
+            } 
+        }
 
         //public event Action<void> OnValueChange;
 
         public Thermostat()
         {
             Name = "Thermostat";
-            Temperature = 0;
+            Temperature = 22;
         }
 
         public void SetTemperature(int temp)

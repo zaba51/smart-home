@@ -27,3 +27,12 @@ C:\Users\Adrian\source\repos\SmartHome\obj\Debug\net8.0-windows\ControlPanel\Pan
 C:\Users\Adrian\source\repos\SmartHome\obj\Debug\net8.0-windows\ControlPanel\Panel\ControlPanelControl.baml
 C:\Users\Adrian\source\repos\SmartHome\obj\Debug\net8.0-windows\ControlPanel\Controls\ThermostatControl.g.cs
 C:\Users\Adrian\source\repos\SmartHome\obj\Debug\net8.0-windows\ControlPanel\Controls\ThermostatControl.baml
+C:\Users\Adrian\source\repos\SmartHome\obj\Debug\net8.0-windows\SmartHome.sourcelink.json
+C:\Users\Adrian\source\repos\SmartHome\obj\Debug\net8.0-windows\ControlPanel\Controls\BrightnessControl.g.cs
+C:\Users\Adrian\source\repos\SmartHome\obj\Debug\net8.0-windows\ControlPanel\Controls\BrightnessControl.baml
+C:\Users\Adrian\source\repos\SmartHome\obj\Debug\net8.0-windows\ControlPanel\Controls\ClockControl.g.cs
+C:\Users\Adrian\source\repos\SmartHome\obj\Debug\net8.0-windows\ControlPanel\Controls\ClockControl.baml
+C:\Users\Adrian\source\repos\SmartHome\obj\Debug\net8.0-windows\ControlPanel\Controls\AutoControl.g.cs
+C:\Users\Adrian\source\repos\SmartHome\obj\Debug\net8.0-windows\ControlPanel\Controls\AutoControl.baml
+C:\Users\Adrian\source\repos\SmartHome\obj\Debug\net8.0-windows\ControlPanel\Controls\ColorControl.g.cs
+C:\Users\Adrian\source\repos\SmartHome\obj\Debug\net8.0-windows\ControlPanel\Controls\ColorControl.baml

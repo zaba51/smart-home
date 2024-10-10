@@ -1,4 +1,5 @@
-﻿using SmartHome.ControlPanel.Service;
+﻿using SmartHome.ControlPanel.AutoController;
+using SmartHome.ControlPanel.Service;
 using SmartHome.DeviceGrid.Widget;
 using SmartHome.Devices;
 using System;
@@ -22,12 +23,13 @@ namespace SmartHome.DeviceGrid.Grid
             _controlService = controlService;
             Widgets = [];
 
-            var deviceFactory = new DeviceFactory();
+            var controller = new AutoController();
+
+            var deviceFactory = new DeviceFactory(controller);
             AddDevice(deviceFactory.CreateLEDLight());
             AddDevice(deviceFactory.CreateThermostat());
-            AddDevice(deviceFactory.CreateLEDLight());
-            AddDevice(deviceFactory.CreateThermostat());
-            AddDevice(deviceFactory.CreateThermostat());
+            AddDevice(deviceFactory.CreateVideoCamera());
+            AddDevice(deviceFactory.CreateClock());
         }
 
         public void AddDevice(IDevice device)

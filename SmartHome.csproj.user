@@ -7,6 +7,18 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="ControlPanel\Controls\AutoControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ControlPanel\Controls\BrightnessControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ControlPanel\Controls\ClockControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ControlPanel\Controls\ColorControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="ControlPanel\Controls\ThermostatControl.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -21,6 +33,18 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="ControlPanel\Controls\AutoControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ControlPanel\Controls\BrightnessControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ControlPanel\Controls\ClockControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ControlPanel\Controls\ColorControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="ControlPanel\Controls\ThermostatControl.xaml">
       <SubType>Designer</SubType>
     </Page>
