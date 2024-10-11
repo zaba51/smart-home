@@ -40,8 +40,8 @@ namespace SmartHome.ControlPanel.AutoController
                     //lights.Brightness = thermostat.Temperature > 21 ? 90: 40;
                     var t = thermostat.Temperature;
                     //lights.Color = Color.FromArgb(255, t*30-460, 1, 1);
-                    var red = (t * 30 - 460) % 255;
-                    lights.R = red < 0 ? 0 : red;
+                    var red = (t * 30 - 460);
+                    lights.R = Math.Clamp(red, 0, 255);
                 }
             }
         }

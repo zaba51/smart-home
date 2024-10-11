@@ -13,40 +13,55 @@ namespace SmartHome.DeviceGrid.Grid
 {
     public class DeviceGrid
     {
-        //public List<IWidget> widgets = [];
-        public ObservableCollection<IWidget> Widgets { get; private set; }
+        //public ObservableCollection<IWidget> Widgets { get; private set; }
+        public Dictionary<string, ObservableCollection<IWidget>> Rooms { get; private set; }
 
         private readonly IControlService _controlService;
 
         public DeviceGrid(IControlService controlService)
         {
             _controlService = controlService;
-            Widgets = [];
+            //Widgets = [];
+            Rooms = new Dictionary<string, ObservableCollection<IWidget>>();
 
             var controller = new AutoController();
 
             var deviceFactory = new DeviceFactory(controller);
-            AddDevice(deviceFactory.CreateLEDLight());
-            AddDevice(deviceFactory.CreateThermostat());
-            AddDevice(deviceFactory.CreateVideoCamera());
-            AddDevice(deviceFactory.CreateClock());
+            AddDeviceToRoom("Room1", deviceFactory.CreateLEDLight());
+            AddDeviceToRoom("Room1", deviceFactory.CreateThermostat());
+            AddDeviceToRoom("Room1", deviceFactory.CreateVideoCamera());
+            AddDeviceToRoom("Room1", deviceFactory.CreateClock());
+
+            AddDeviceToRoom("Room2", deviceFactory.CreateLEDLight());
+            AddDeviceToRoom("Room2", deviceFactory.CreateThermostat());
+            AddDeviceToRoom("Room2", deviceFactory.CreateVideoCamera());
+            AddDeviceToRoom("Room2", deviceFactory.CreateClock());
         }
 
-        public void AddDevice(IDevice device)
+        public void AddDeviceToRoom(string roomName, IDevice device)
         {
             var widget = new DeviceWidget(device);
             widget.OnClickEvent += OnWidgetSelected;
-            Widgets.Add(widget);
+
+            if (!Rooms.ContainsKey(roomName))
+            {
+                Rooms[roomName] = new ObservableCollection<IWidget>();
+            }
+
+            Rooms[roomName].Add(widget);
         }
 
         public void OnWidgetSelected(IWidget widget)
         {
             // TODO handle disabled state
-            foreach (var w in Widgets)
+            foreach (var room in Rooms)
             {
-                if (w != widget)
-                    w.Deselect();
-            };
+                foreach (var w in room.Value)
+                {
+                    if (w != widget)
+                        w.Deselect();
+                };
+            }
 
             if (widget.IsSelected)
             {

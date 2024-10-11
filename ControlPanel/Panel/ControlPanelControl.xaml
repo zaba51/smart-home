@@ -9,34 +9,35 @@
              mc:Ignorable="d" 
              d:DesignHeight="800" d:DesignWidth="300">
     <Grid Background="Gray">
-            <StackPanel>
+        <StackPanel>
+            <controls:ClockControl DataContext="{Binding Clock}"/>
             <TextBlock Text="{Binding SelectedDevice.Name, FallbackValue='No Device Selected'}" 
                            FontSize="24" 
                            FontWeight="Bold" 
                            Margin="10"
                            HorizontalAlignment="Center"/>
             <Border Padding="20">
-                    <ContentControl Content="{Binding SelectedDevice}">
-                        <ContentControl.Resources>
-                            <DataTemplate DataType="{x:Type devices:Thermostat}">
+                <ContentControl Content="{Binding SelectedDevice}">
+                    <ContentControl.Resources>
+                        <DataTemplate DataType="{x:Type devices:Thermostat}">
                             <StackPanel>
                                 <controls:AutoControl />
                                 <controls:ThermostatControl />
                             </StackPanel>
-                            </DataTemplate>
-                            <DataTemplate DataType="{x:Type devices:LEDLight}">
+                        </DataTemplate>
+                        <DataTemplate DataType="{x:Type devices:LEDLight}">
                             <StackPanel>
                                 <controls:AutoControl />
                                 <controls:ColorControl />
                                 <controls:BrightnessControl />
                             </StackPanel>
                         </DataTemplate>
-                            <DataTemplate DataType="{x:Type devices:Clock}">
-                                <controls:ClockControl />
-                            </DataTemplate>
+                        <DataTemplate DataType="{x:Type devices:Clock}">
+                            <controls:ClockControl />
+                        </DataTemplate>
                     </ContentControl.Resources>
-                    </ContentControl>
-                </Border>
+                </ContentControl>
+            </Border>
 
             <TextBlock Text="{Binding DeviceInfo, FallbackValue='Click on a widget'}" 
                            FontSize="18" 

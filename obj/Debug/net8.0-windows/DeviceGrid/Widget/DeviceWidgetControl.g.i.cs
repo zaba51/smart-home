@@ -61,7 +61,7 @@ namespace SmartHome.DeviceGrid.Widget {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/SmartHome;V1.0.0.0;component/devicegrid/widget/devicewidgetcontrol.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/SmartHome;component/devicegrid/widget/devicewidgetcontrol.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\DeviceGrid\Widget\DeviceWidgetControl.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -8,22 +8,38 @@
                  mc:Ignorable="d" 
                  d:DesignHeight="800" d:DesignWidth="500">
         <Grid Background="#424242">
+            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled">
             <Border Padding="20" Grid.RowSpan="3">
-                <ItemsControl x:Name="DeviceWidgetsList" 
-                              ItemsSource="{Binding Widgets}">
-
-                    <ItemsControl.ItemsPanel>
-                        <ItemsPanelTemplate>
-                            <WrapPanel />
-                        </ItemsPanelTemplate>
-                    </ItemsControl.ItemsPanel>
+                <ItemsControl x:Name="RoomList" 
+                              ItemsSource="{Binding Rooms}">
 
                     <ItemsControl.ItemTemplate>
                         <DataTemplate>
-                            <widget:DeviceWidgetControl ViewModel="{Binding}"  Margin="10"/>
+                            <StackPanel>
+                                <TextBlock Text="{Binding Key}" 
+                                           FontWeight="Bold" 
+                                           FontSize="18" 
+                                           Foreground="White"
+                                           Margin="0, 10, 0, 0"/>
+
+                                <ItemsControl ItemsSource="{Binding Value}">
+                                    <ItemsControl.ItemsPanel>
+                                        <ItemsPanelTemplate>
+                                            <WrapPanel />
+                                        </ItemsPanelTemplate>
+                                    </ItemsControl.ItemsPanel>
+
+                                    <ItemsControl.ItemTemplate>
+                                        <DataTemplate>
+                                            <widget:DeviceWidgetControl ViewModel="{Binding}"  Margin="10"/>
+                                        </DataTemplate>
+                                    </ItemsControl.ItemTemplate>
+                                </ItemsControl>
+                            </StackPanel>
                         </DataTemplate>
                     </ItemsControl.ItemTemplate>
                 </ItemsControl>
             </Border>
+         </ScrollViewer>
         </Grid>
     </UserControl>

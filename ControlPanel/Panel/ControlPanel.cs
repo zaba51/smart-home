@@ -1,4 +1,5 @@
 ﻿using SmartHome.ControlPanel.Service;
+using SmartHome.DeviceGrid;
 using SmartHome.Devices;
 using System;
 using System.Collections.Generic;
@@ -15,13 +16,20 @@ namespace SmartHome.ControlPanel
 
         public event PropertyChangedEventHandler? PropertyChanged;
 
-        public IDevice? SelectedDevice { get; private set; }
+        public IDevice? SelectedDevice { get; private set; } = null;
 
+        public Clock Clock { get; private set; }
+         
         public string DeviceInfo => "" ?? SelectedDevice?.GetStatus();
 
         public ControlPanel() { 
             _controlService = ControlService.GetInstance();
             _controlService.AddSubscriber(this);
+
+            var controller = new AutoController.AutoController();
+
+            var deviceFactory = new DeviceFactory(controller);
+            Clock = deviceFactory.CreateClock();
         }
 
         public void Update(IDevice? selectedDevice)
