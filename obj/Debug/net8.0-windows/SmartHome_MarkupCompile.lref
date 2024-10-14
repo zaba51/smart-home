@@ -5,8 +5,10 @@ FC:\Users\Adrian\source\repos\SmartHome\ControlPanel\Controls\BrightnessControl.
 FC:\Users\Adrian\source\repos\SmartHome\ControlPanel\Controls\ClockControl.xaml;;
 FC:\Users\Adrian\source\repos\SmartHome\ControlPanel\Controls\ColorControl.xaml;;
 FC:\Users\Adrian\source\repos\SmartHome\ControlPanel\Controls\ThermostatControl.xaml;;
+FC:\Users\Adrian\source\repos\SmartHome\ControlPanel\DevicePanel\DevicePanelControl.xaml;;
 FC:\Users\Adrian\source\repos\SmartHome\ControlPanel\Panel\ControlPanelControl.xaml;;
 FC:\Users\Adrian\source\repos\SmartHome\DeviceGrid\Grid\DeviceGridControl.xaml;;
 FC:\Users\Adrian\source\repos\SmartHome\DeviceGrid\Widget\DeviceWidgetControl.xaml;;
 FC:\Users\Adrian\source\repos\SmartHome\MainWindow.xaml;;
+FC:\Users\Adrian\source\repos\SmartHome\ControlPanel\Controls\VideoCameraControl.xaml;;
 

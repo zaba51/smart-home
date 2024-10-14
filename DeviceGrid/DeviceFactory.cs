@@ -10,11 +10,22 @@ namespace SmartHome.DeviceGrid
 {
     class DeviceFactory
     {
-        private readonly IMediator _mediator; 
+        private readonly IMediator _mediator;
+
+        private Dictionary<string, Func<IDevice>> _typeMapper = [];
 
         public DeviceFactory(IMediator mediator)
         {
             _mediator = mediator;
+
+            _typeMapper.Add("Thermostat", CreateThermostat);
+            _typeMapper.Add("LEDLight", CreateLEDLight);
+            _typeMapper.Add("VideoCamera", CreateVideoCamera);
+        }
+
+        public IDevice CreateDevice(string deviceName)
+        {
+            return _typeMapper[deviceName]();
         }
 
         public LEDLight CreateLEDLight() {

@@ -22,6 +22,12 @@
     <Compile Update="ControlPanel\Controls\ThermostatControl.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="ControlPanel\Controls\VideoCameraControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ControlPanel\DevicePanel\DevicePanelControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="ControlPanel\Panel\ControlPanelControl.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -46,6 +52,12 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="ControlPanel\Controls\ThermostatControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ControlPanel\Controls\VideoCameraControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ControlPanel\DevicePanel\DevicePanelControl.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="ControlPanel\Panel\ControlPanelControl.xaml">

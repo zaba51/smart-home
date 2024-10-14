@@ -12,7 +12,7 @@ namespace SmartHome.ControlPanel
 {
     public class ControlPanel : ISubscriber, INotifyPropertyChanged
     {
-        private readonly ControlService _controlService;
+        private readonly IControlService _controlService;
 
         public event PropertyChangedEventHandler? PropertyChanged;
 
@@ -22,19 +22,17 @@ namespace SmartHome.ControlPanel
          
         public string DeviceInfo => "" ?? SelectedDevice?.GetStatus();
 
-        public ControlPanel() { 
+        public ControlPanel(AutoController.AutoController autoController) { 
             _controlService = ControlService.GetInstance();
             _controlService.AddSubscriber(this);
 
-            var controller = new AutoController.AutoController();
-
-            var deviceFactory = new DeviceFactory(controller);
+            var deviceFactory = new DeviceFactory(autoController);
             Clock = deviceFactory.CreateClock();
         }
 
-        public void Update(IDevice? selectedDevice)
+        public void Update(IControlService service)
         {
-            SelectedDevice = selectedDevice;
+            SelectedDevice = service.SelectedDevice;
             OnPropertyChanged(nameof(SelectedDevice));
             OnPropertyChanged(nameof(DeviceInfo));
         }

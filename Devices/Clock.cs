@@ -40,6 +40,11 @@ namespace SmartHome.Devices
             _timer.Start();
         }
 
+        ~Clock()
+        {
+            _timer.Stop();
+        }
+
         private void Tickevent(object? sender, EventArgs e)
         {
             Time = DateTime.Now;

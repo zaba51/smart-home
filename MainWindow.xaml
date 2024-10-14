@@ -6,15 +6,18 @@
         xmlns:local="clr-namespace:SmartHome"
         xmlns:grid="clr-namespace:SmartHome.DeviceGrid.Grid"
         xmlns:controlPanel="clr-namespace:SmartHome.ControlPanel.Panel"
+        xmlns:devicePanel="clr-namespace:SmartHome.ControlPanel.DevicePanel"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="550" Width="1200">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="2*" />
-            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="3*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
         </Grid.ColumnDefinitions>
 
         <grid:DeviceGridControl Grid.Column="0" />
-        <controlPanel:ControlPanelControl Grid.Column="1"/>
+        <controlPanel:ControlPanelControl Grid.Column="1" DataContext="{Binding ControlPanel}"/>
+        <devicePanel:DevicePanelControl Grid.Column="2" DataContext="{Binding DevicePanel}"/>
     </Grid>
 </Window>

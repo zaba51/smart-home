@@ -9,9 +9,11 @@ namespace SmartHome.ControlPanel.Service
 {
     public interface IControlService
     {
-        public void AddSubscriber() { }
+        public Dictionary<string, List<IDevice>> Rooms { get; }
+        public IDevice? SelectedDevice { get; }
 
-        public void RemoveSubscriber() { }
+        public void AddDevice (string room, IDevice device);
+        public void AddSubscriber(ISubscriber subcsriber);
 
         public void SelectDevice(IDevice? device);
     }

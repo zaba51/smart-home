@@ -23,7 +23,7 @@ namespace SmartHome.DeviceGrid.Grid
         private DeviceGrid _deviceGrid;
 
         //public ObservableCollection<IWidget> Widgets => _deviceGrid.Widgets;
-        public Dictionary<string, ObservableCollection<IWidget>> Rooms => _deviceGrid.Rooms;
+        public ObservableCollection<Room> Rooms => _deviceGrid.Rooms;
 
         public DeviceGridControl()
         {

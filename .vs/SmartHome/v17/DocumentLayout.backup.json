@@ -3,20 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\controls\\videocameracontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\controls\\videocameracontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\controls\\videocameracontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\controls\\videocameracontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devices\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devices\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devices\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devices\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\panel\\controlpanelcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\panel\\controlpanelcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\panel\\controlpanelcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\panel\\controlpanelcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\autocontroller\\autocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\autocontroller\\autocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devices\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devices\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\devicepanel\\devicepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\devicepanel\\devicepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devicegrid\\devicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devicegrid\\devicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\panel\\controlpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\panel\\controlpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\service\\controlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\service\\controlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devices\\devicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devices\\devicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devicegrid\\grid\\devicegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devicegrid\\grid\\devicegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\autocontroller\\handlers\\clockhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\autocontroller\\handlers\\clockhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\autocontroller\\handlers\\thermostathandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\autocontroller\\handlers\\thermostathandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\autocontroller\\handlers\\idevicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\autocontroller\\handlers\\idevicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\controls\\clockcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\controls\\clockcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\devicepanel\\devicepanelcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\devicepanel\\devicepanelcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,36 +79,84 @@
       "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devicegrid\\grid\\devicegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devicegrid\\grid\\devicegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\autocontroller\\autocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\autocontroller\\autocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\service\\icontrolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\service\\icontrolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\panel\\controlpanelcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\panel\\controlpanelcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devicegrid\\grid\\devicegridcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devicegrid\\grid\\devicegridcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devicegrid\\grid\\devicegridcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devicegrid\\grid\\devicegridcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\service\\controlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\service\\controlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\autocontroller\\imediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\autocontroller\\imediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devicegrid\\devicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devicegrid\\devicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devicegrid\\grid\\devicegridcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devicegrid\\grid\\devicegridcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devicegrid\\widget\\devicewidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devicegrid\\widget\\devicewidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\devicepanel\\devicepanelcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\devicepanel\\devicepanelcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devicegrid\\widget\\devicewidgetcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devicegrid\\widget\\devicewidgetcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devicegrid\\grid\\devicegridcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devicegrid\\grid\\devicegridcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devicegrid\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devicegrid\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devicegrid\\widget\\state\\defaultstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devicegrid\\widget\\state\\defaultstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devicegrid\\widget\\devicewidgetcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devicegrid\\widget\\devicewidgetcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\controls\\autocontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\controls\\autocontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\controls\\thermostatcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\controls\\thermostatcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devices\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devices\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devices\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devices\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\controls\\autocontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\controls\\autocontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devices\\ledlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,56 +167,12 @@
       "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\controls\\thermostatcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devicegrid\\widget\\devicewidgetcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devicegrid\\widget\\devicewidgetcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devices\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devices\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devicegrid\\widget\\devicewidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devicegrid\\widget\\devicewidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\controls\\autocontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\controls\\autocontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\controls\\autocontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\controls\\autocontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devices\\devicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devices\\devicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devices\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devices\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\controls\\colorcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\controls\\colorcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devices\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devices\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\controls\\brightnesscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\controls\\brightnesscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devices\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devices\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\controls\\clockcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\controls\\clockcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\controls\\colorcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -131,31 +187,11 @@
       "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\controls\\brightnesscontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\service\\icontrolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\service\\icontrolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devicegrid\\widget\\devicewidgetcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devicegrid\\widget\\devicewidgetcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\controls\\thermostatcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\controls\\thermostatcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devicegrid\\widget\\iwidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devicegrid\\widget\\iwidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\controlpanel\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:controlpanel\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devicegrid\\widget\\state\\defaultstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|solutionrelative:devicegrid\\widget\\state\\defaultstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DF3416C-0973-4B21-9995-F3BAB5EA000A}|SmartHome.csproj|c:\\users\\adrian\\source\\repos\\smarthome\\devicegrid\\widget\\state\\widgetstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -194,213 +230,42 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DeviceGrid.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Grid\\DeviceGrid.cs",
-              "RelativeDocumentMoniker": "DeviceGrid\\Grid\\DeviceGrid.cs",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Grid\\DeviceGrid.cs",
-              "RelativeToolTip": "DeviceGrid\\Grid\\DeviceGrid.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\Camera.cs",
+              "RelativeDocumentMoniker": "Devices\\Camera.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\Camera.cs",
+              "RelativeToolTip": "Devices\\Camera.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAWwFIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T13:08:39.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T20:44:39.628Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ControlPanelControl.xaml",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Panel\\ControlPanelControl.xaml",
-              "RelativeDocumentMoniker": "ControlPanel\\Panel\\ControlPanelControl.xaml",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Panel\\ControlPanelControl.xaml",
-              "RelativeToolTip": "ControlPanel\\Panel\\ControlPanelControl.xaml",
+              "Title": "VideoCameraControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\VideoCameraControl.xaml",
+              "RelativeDocumentMoniker": "ControlPanel\\Controls\\VideoCameraControl.xaml",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\VideoCameraControl.xaml",
+              "RelativeToolTip": "ControlPanel\\Controls\\VideoCameraControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-04T11:15:49.085Z",
+              "WhenOpened": "2024-10-12T14:07:39.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ControlPanel.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Panel\\ControlPanel.cs",
-              "RelativeDocumentMoniker": "ControlPanel\\Panel\\ControlPanel.cs",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Panel\\ControlPanel.cs",
-              "RelativeToolTip": "ControlPanel\\Panel\\ControlPanel.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwCQAAAAsAAAAAAAAAA==",
+              "Title": "VideoCameraControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\VideoCameraControl.xaml.cs",
+              "RelativeDocumentMoniker": "ControlPanel\\Controls\\VideoCameraControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\VideoCameraControl.xaml.cs",
+              "RelativeToolTip": "ControlPanel\\Controls\\VideoCameraControl.xaml.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T13:52:15.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T14:40:55.612Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ControlService.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Service\\ControlService.cs",
-              "RelativeDocumentMoniker": "ControlPanel\\Service\\ControlService.cs",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Service\\ControlService.cs",
-              "RelativeToolTip": "ControlPanel\\Service\\ControlService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T22:36:25.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAkwB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T20:11:54.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-28T13:24:47.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-16T21:35:53.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AutoController.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\AutoController\\AutoController.cs",
-              "RelativeDocumentMoniker": "ControlPanel\\AutoController\\AutoController.cs",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\AutoController\\AutoController.cs",
-              "RelativeToolTip": "ControlPanel\\AutoController\\AutoController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwDUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T13:59:19.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ControlPanelControl.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Panel\\ControlPanelControl.xaml.cs",
-              "RelativeDocumentMoniker": "ControlPanel\\Panel\\ControlPanelControl.xaml.cs",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Panel\\ControlPanelControl.xaml.cs",
-              "RelativeToolTip": "ControlPanel\\Panel\\ControlPanelControl.xaml.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T11:16:23.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DeviceGridControl.xaml",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Grid\\DeviceGridControl.xaml",
-              "RelativeDocumentMoniker": "DeviceGrid\\Grid\\DeviceGridControl.xaml",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Grid\\DeviceGridControl.xaml",
-              "RelativeToolTip": "DeviceGrid\\Grid\\DeviceGridControl.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-01T20:51:18.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IMediator.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\AutoController\\IMediator.cs",
-              "RelativeDocumentMoniker": "ControlPanel\\AutoController\\IMediator.cs",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\AutoController\\IMediator.cs",
-              "RelativeToolTip": "ControlPanel\\AutoController\\IMediator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T13:59:51.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DeviceGridControl.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Grid\\DeviceGridControl.xaml.cs",
-              "RelativeDocumentMoniker": "DeviceGrid\\Grid\\DeviceGridControl.xaml.cs",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Grid\\DeviceGridControl.xaml.cs",
-              "RelativeToolTip": "DeviceGrid\\Grid\\DeviceGridControl.xaml.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAA+wB4AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T20:52:07.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DeviceFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\DeviceFactory.cs",
-              "RelativeDocumentMoniker": "DeviceGrid\\DeviceFactory.cs",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\DeviceFactory.cs",
-              "RelativeToolTip": "DeviceGrid\\DeviceFactory.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAD4vw4AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T13:12:45.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Room.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Room.cs",
-              "RelativeDocumentMoniker": "DeviceGrid\\Room.cs",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Room.cs",
-              "RelativeToolTip": "DeviceGrid\\Room.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T20:08:21.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LEDLight.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\LEDLight.cs",
-              "RelativeDocumentMoniker": "Devices\\LEDLight.cs",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\LEDLight.cs",
-              "RelativeToolTip": "Devices\\LEDLight.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAewDUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T13:08:40.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "Thermostat.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\Thermostat.cs",
               "RelativeDocumentMoniker": "Devices\\Thermostat.cs",
@@ -408,49 +273,353 @@
               "RelativeToolTip": "Devices\\Thermostat.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAtwB8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T17:45:28.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T17:45:28.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ControlPanelControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Panel\\ControlPanelControl.xaml",
+              "RelativeDocumentMoniker": "ControlPanel\\Panel\\ControlPanelControl.xaml",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Panel\\ControlPanelControl.xaml",
+              "RelativeToolTip": "ControlPanel\\Panel\\ControlPanelControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-04T11:15:49.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControlPanelControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Panel\\ControlPanelControl.xaml.cs",
+              "RelativeDocumentMoniker": "ControlPanel\\Panel\\ControlPanelControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Panel\\ControlPanelControl.xaml.cs",
+              "RelativeToolTip": "ControlPanel\\Panel\\ControlPanelControl.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:16:23.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Clock.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\Clock.cs",
+              "RelativeDocumentMoniker": "Devices\\Clock.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\Clock.cs",
+              "RelativeToolTip": "Devices\\Clock.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwDgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T21:32:52.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\AutoController\\AutoController.cs",
+              "RelativeDocumentMoniker": "ControlPanel\\AutoController\\AutoController.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\AutoController\\AutoController.cs",
+              "RelativeToolTip": "ControlPanel\\AutoController\\AutoController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAvwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:59:19.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DevicePanel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\DevicePanel\\DevicePanel.cs",
+              "RelativeDocumentMoniker": "ControlPanel\\DevicePanel\\DevicePanel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\DevicePanel\\DevicePanel.cs",
+              "RelativeToolTip": "ControlPanel\\DevicePanel\\DevicePanel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAvwCIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:59:20.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeviceBase.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\DeviceBase.cs",
+              "RelativeDocumentMoniker": "Devices\\DeviceBase.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\DeviceBase.cs",
+              "RelativeToolTip": "Devices\\DeviceBase.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAvwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:54:30.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClockHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\AutoController\\Handlers\\ClockHandler.cs",
+              "RelativeDocumentMoniker": "ControlPanel\\AutoController\\Handlers\\ClockHandler.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\AutoController\\Handlers\\ClockHandler.cs",
+              "RelativeToolTip": "ControlPanel\\AutoController\\Handlers\\ClockHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:40:30.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ThermostatHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\AutoController\\Handlers\\ThermostatHandler.cs",
+              "RelativeDocumentMoniker": "ControlPanel\\AutoController\\Handlers\\ThermostatHandler.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\AutoController\\Handlers\\ThermostatHandler.cs",
+              "RelativeToolTip": "ControlPanel\\AutoController\\Handlers\\ThermostatHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:38:04.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ControlPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Panel\\ControlPanel.cs",
+              "RelativeDocumentMoniker": "ControlPanel\\Panel\\ControlPanel.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Panel\\ControlPanel.cs",
+              "RelativeToolTip": "ControlPanel\\Panel\\ControlPanel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAnwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:52:15.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeviceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\DeviceFactory.cs",
+              "RelativeDocumentMoniker": "DeviceGrid\\DeviceFactory.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\DeviceFactory.cs",
+              "RelativeToolTip": "DeviceGrid\\DeviceFactory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvxcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:12:45.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDeviceHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\AutoController\\Handlers\\IDeviceHandler.cs",
+              "RelativeDocumentMoniker": "ControlPanel\\AutoController\\Handlers\\IDeviceHandler.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\AutoController\\Handlers\\IDeviceHandler.cs",
+              "RelativeToolTip": "ControlPanel\\AutoController\\Handlers\\IDeviceHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:37:18.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClockControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\ClockControl.xaml",
+              "RelativeDocumentMoniker": "ControlPanel\\Controls\\ClockControl.xaml",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\ClockControl.xaml",
+              "RelativeToolTip": "ControlPanel\\Controls\\ClockControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-07T20:23:37.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DevicePanelControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\DevicePanel\\DevicePanelControl.xaml.cs",
+              "RelativeDocumentMoniker": "ControlPanel\\DevicePanel\\DevicePanelControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\DevicePanel\\DevicePanelControl.xaml.cs",
+              "RelativeToolTip": "ControlPanel\\DevicePanel\\DevicePanelControl.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwBoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:22:22.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:11:54.8Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T21:35:53.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ControlService.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Service\\ControlService.cs",
+              "RelativeDocumentMoniker": "ControlPanel\\Service\\ControlService.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Service\\ControlService.cs",
+              "RelativeToolTip": "ControlPanel\\Service\\ControlService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T22:36:25.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DeviceGrid.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Grid\\DeviceGrid.cs",
+              "RelativeDocumentMoniker": "DeviceGrid\\Grid\\DeviceGrid.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Grid\\DeviceGrid.cs",
+              "RelativeToolTip": "DeviceGrid\\Grid\\DeviceGrid.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAlwFIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:08:39.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IControlService.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Service\\IControlService.cs",
+              "RelativeDocumentMoniker": "ControlPanel\\Service\\IControlService.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Service\\IControlService.cs",
+              "RelativeToolTip": "ControlPanel\\Service\\IControlService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T15:13:35.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IMediator.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\AutoController\\IMediator.cs",
+              "RelativeDocumentMoniker": "ControlPanel\\AutoController\\IMediator.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\AutoController\\IMediator.cs",
+              "RelativeToolTip": "ControlPanel\\AutoController\\IMediator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:59:51.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DeviceGridControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Grid\\DeviceGridControl.xaml",
+              "RelativeDocumentMoniker": "DeviceGrid\\Grid\\DeviceGridControl.xaml",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Grid\\DeviceGridControl.xaml",
+              "RelativeToolTip": "DeviceGrid\\Grid\\DeviceGridControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-01T20:51:18.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "DeviceWidget.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Widget\\DeviceWidget.cs",
               "RelativeDocumentMoniker": "DeviceGrid\\Widget\\DeviceWidget.cs",
               "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Widget\\DeviceWidget.cs",
               "RelativeToolTip": "DeviceGrid\\Widget\\DeviceWidget.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAwwDQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T13:55:22.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T13:55:22.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
+              "Title": "DevicePanelControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\DevicePanel\\DevicePanelControl.xaml",
+              "RelativeDocumentMoniker": "ControlPanel\\DevicePanel\\DevicePanelControl.xaml",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\DevicePanel\\DevicePanelControl.xaml",
+              "RelativeToolTip": "ControlPanel\\DevicePanel\\DevicePanelControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-11T10:20:46.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "DeviceWidgetControl.xaml",
               "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Widget\\DeviceWidgetControl.xaml",
               "RelativeDocumentMoniker": "DeviceGrid\\Widget\\DeviceWidgetControl.xaml",
               "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Widget\\DeviceWidgetControl.xaml",
               "RelativeToolTip": "DeviceGrid\\Widget\\DeviceWidgetControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-01T20:54:20.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T20:54:20.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ThermostatControl.xaml",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\ThermostatControl.xaml",
-              "RelativeDocumentMoniker": "ControlPanel\\Controls\\ThermostatControl.xaml",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\ThermostatControl.xaml",
-              "RelativeToolTip": "ControlPanel\\Controls\\ThermostatControl.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-05T08:35:16.985Z",
-              "EditorCaption": ""
+              "DocumentIndex": 30,
+              "Title": "DeviceWidgetControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Widget\\DeviceWidgetControl.xaml.cs",
+              "RelativeDocumentMoniker": "DeviceGrid\\Widget\\DeviceWidgetControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Widget\\DeviceWidgetControl.xaml.cs",
+              "RelativeToolTip": "DeviceGrid\\Widget\\DeviceWidgetControl.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAlwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:54:22.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Room.cs",
+              "RelativeDocumentMoniker": "DeviceGrid\\Room.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Room.cs",
+              "RelativeToolTip": "DeviceGrid\\Room.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIAwwA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:08:21.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DeviceGridControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Grid\\DeviceGridControl.xaml.cs",
+              "RelativeDocumentMoniker": "DeviceGrid\\Grid\\DeviceGridControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Grid\\DeviceGridControl.xaml.cs",
+              "RelativeToolTip": "DeviceGrid\\Grid\\DeviceGridControl.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAASwBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:52:07.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DefaultState.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Widget\\State\\DefaultState.cs",
+              "RelativeDocumentMoniker": "DeviceGrid\\Widget\\State\\DefaultState.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Widget\\State\\DefaultState.cs",
+              "RelativeToolTip": "DeviceGrid\\Widget\\State\\DefaultState.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:59:19.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AutoControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\AutoControl.xaml.cs",
+              "RelativeDocumentMoniker": "ControlPanel\\Controls\\AutoControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\AutoControl.xaml.cs",
+              "RelativeToolTip": "ControlPanel\\Controls\\AutoControl.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAwwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:37:01.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ThermostatControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\ThermostatControl.xaml.cs",
+              "RelativeDocumentMoniker": "ControlPanel\\Controls\\ThermostatControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\ThermostatControl.xaml.cs",
+              "RelativeToolTip": "ControlPanel\\Controls\\ThermostatControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:44:09.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "AssemblyInfo.cs",
@@ -458,125 +627,114 @@
               "RelativeToolTip": "AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T13:21:12.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T13:21:12.839Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 35,
+              "Title": "ISubscriber.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\ISubscriber.cs",
+              "RelativeDocumentMoniker": "ControlPanel\\ISubscriber.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\ISubscriber.cs",
+              "RelativeToolTip": "ControlPanel\\ISubscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:48:22.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IDevice.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\IDevice.cs",
+              "RelativeDocumentMoniker": "Devices\\IDevice.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\IDevice.cs",
+              "RelativeToolTip": "Devices\\IDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:28:27.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DeviceService.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\DeviceService.cs",
+              "RelativeDocumentMoniker": "Devices\\DeviceService.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\DeviceService.cs",
+              "RelativeToolTip": "Devices\\DeviceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:52:23.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "AutoControl.xaml",
               "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\AutoControl.xaml",
               "RelativeDocumentMoniker": "ControlPanel\\Controls\\AutoControl.xaml",
               "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\AutoControl.xaml",
               "RelativeToolTip": "ControlPanel\\Controls\\AutoControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-08T21:11:18.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T21:11:18.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AutoControl.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\AutoControl.xaml.cs",
-              "RelativeDocumentMoniker": "ControlPanel\\Controls\\AutoControl.xaml.cs",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\AutoControl.xaml.cs",
-              "RelativeToolTip": "ControlPanel\\Controls\\AutoControl.xaml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAIAwwBUAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 38,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-28T13:24:47.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LEDLight.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\LEDLight.cs",
+              "RelativeDocumentMoniker": "Devices\\LEDLight.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\LEDLight.cs",
+              "RelativeToolTip": "Devices\\LEDLight.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAewDUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T16:37:01.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T13:08:40.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DeviceBase.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\DeviceBase.cs",
-              "RelativeDocumentMoniker": "Devices\\DeviceBase.cs",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\DeviceBase.cs",
-              "RelativeToolTip": "Devices\\DeviceBase.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T14:54:30.7Z",
-              "EditorCaption": ""
+              "DocumentIndex": 40,
+              "Title": "ThermostatControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\ThermostatControl.xaml",
+              "RelativeDocumentMoniker": "ControlPanel\\Controls\\ThermostatControl.xaml",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\ThermostatControl.xaml",
+              "RelativeToolTip": "ControlPanel\\Controls\\ThermostatControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-05T08:35:16.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Camera.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\Camera.cs",
-              "RelativeDocumentMoniker": "Devices\\Camera.cs",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\Camera.cs",
-              "RelativeToolTip": "Devices\\Camera.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T20:44:39.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 41,
               "Title": "ColorControl.xaml",
               "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\ColorControl.xaml",
               "RelativeDocumentMoniker": "ControlPanel\\Controls\\ColorControl.xaml",
               "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\ColorControl.xaml",
               "RelativeToolTip": "ControlPanel\\Controls\\ColorControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-10T10:48:52.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T10:48:52.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 42,
               "Title": "BrightnessControl.xaml",
               "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\BrightnessControl.xaml",
               "RelativeDocumentMoniker": "ControlPanel\\Controls\\BrightnessControl.xaml",
               "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\BrightnessControl.xaml",
               "RelativeToolTip": "ControlPanel\\Controls\\BrightnessControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-06T12:59:17.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T12:59:17.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ClockControl.xaml",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\ClockControl.xaml",
-              "RelativeDocumentMoniker": "ControlPanel\\Controls\\ClockControl.xaml",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\ClockControl.xaml",
-              "RelativeToolTip": "ControlPanel\\Controls\\ClockControl.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-07T20:23:37.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Clock.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\Clock.cs",
-              "RelativeDocumentMoniker": "Devices\\Clock.cs",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\Clock.cs",
-              "RelativeToolTip": "Devices\\Clock.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T21:32:52.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IDevice.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\IDevice.cs",
-              "RelativeDocumentMoniker": "Devices\\IDevice.cs",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\Devices\\IDevice.cs",
-              "RelativeToolTip": "Devices\\IDevice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T13:28:27.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 43,
               "Title": "ColorControl.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\ColorControl.xaml.cs",
               "RelativeDocumentMoniker": "ControlPanel\\Controls\\ColorControl.xaml.cs",
@@ -584,12 +742,11 @@
               "RelativeToolTip": "ControlPanel\\Controls\\ColorControl.xaml.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T10:49:01.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T10:49:01.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 44,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
@@ -601,7 +758,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 45,
               "Title": "BrightnessControl.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\BrightnessControl.xaml.cs",
               "RelativeDocumentMoniker": "ControlPanel\\Controls\\BrightnessControl.xaml.cs",
@@ -613,43 +770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "IControlService.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Service\\IControlService.cs",
-              "RelativeDocumentMoniker": "ControlPanel\\Service\\IControlService.cs",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Service\\IControlService.cs",
-              "RelativeToolTip": "ControlPanel\\Service\\IControlService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T15:13:35.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "DeviceWidgetControl.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Widget\\DeviceWidgetControl.xaml.cs",
-              "RelativeDocumentMoniker": "DeviceGrid\\Widget\\DeviceWidgetControl.xaml.cs",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Widget\\DeviceWidgetControl.xaml.cs",
-              "RelativeToolTip": "DeviceGrid\\Widget\\DeviceWidgetControl.xaml.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAewCcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T20:54:22.453Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "ThermostatControl.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\ThermostatControl.xaml.cs",
-              "RelativeDocumentMoniker": "ControlPanel\\Controls\\ThermostatControl.xaml.cs",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\Controls\\ThermostatControl.xaml.cs",
-              "RelativeToolTip": "ControlPanel\\Controls\\ThermostatControl.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T08:44:09.332Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 46,
               "Title": "IWidget.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Widget\\IWidget.cs",
               "RelativeDocumentMoniker": "DeviceGrid\\Widget\\IWidget.cs",
@@ -661,7 +782,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 47,
               "Title": "PropertyPathWorker.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs",
@@ -674,31 +795,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "ISubscriber.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\ISubscriber.cs",
-              "RelativeDocumentMoniker": "ControlPanel\\ISubscriber.cs",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\ControlPanel\\ISubscriber.cs",
-              "RelativeToolTip": "ControlPanel\\ISubscriber.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T13:48:22.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "DefaultState.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Widget\\State\\DefaultState.cs",
-              "RelativeDocumentMoniker": "DeviceGrid\\Widget\\State\\DefaultState.cs",
-              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Widget\\State\\DefaultState.cs",
-              "RelativeToolTip": "DeviceGrid\\Widget\\State\\DefaultState.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAASwBEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T13:59:19.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 48,
               "Title": "WidgetState.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Widget\\State\\WidgetState.cs",
               "RelativeDocumentMoniker": "DeviceGrid\\Widget\\State\\WidgetState.cs",
@@ -710,7 +807,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 49,
               "Title": "DisabledState.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Widget\\State\\DisabledState.cs",
               "RelativeDocumentMoniker": "DeviceGrid\\Widget\\State\\DisabledState.cs",
@@ -722,7 +819,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 50,
               "Title": "SelectedState.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\DeviceGrid\\Widget\\State\\SelectedState.cs",
               "RelativeDocumentMoniker": "DeviceGrid\\Widget\\State\\SelectedState.cs",
@@ -734,7 +831,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 51,
               "Title": "SmartHome.csproj",
               "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\SmartHome\\SmartHome.csproj",
               "RelativeDocumentMoniker": "SmartHome.csproj",
@@ -742,8 +839,23 @@
               "RelativeToolTip": "SmartHome.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-28T13:08:36.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T13:08:36.752Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

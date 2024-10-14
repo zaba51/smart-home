@@ -25,6 +25,7 @@
                                 <controls:ThermostatControl />
                             </StackPanel>
                         </DataTemplate>
+                        
                         <DataTemplate DataType="{x:Type devices:LEDLight}">
                             <StackPanel>
                                 <controls:AutoControl />
@@ -32,6 +33,13 @@
                                 <controls:BrightnessControl />
                             </StackPanel>
                         </DataTemplate>
+
+                        <DataTemplate DataType="{x:Type devices:Camera}">
+                            <StackPanel>
+                                <controls:VideoCameraControl />
+                            </StackPanel>
+                        </DataTemplate>
+
                         <DataTemplate DataType="{x:Type devices:Clock}">
                             <controls:ClockControl />
                         </DataTemplate>

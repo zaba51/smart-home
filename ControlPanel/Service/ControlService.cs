@@ -1,6 +1,8 @@
-﻿using SmartHome.Devices;
+﻿using SmartHome.DeviceGrid.Widget;
+using SmartHome.Devices;
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,9 +11,10 @@ namespace SmartHome.ControlPanel.Service
 {
     public sealed class ControlService: IControlService
     {
-        private readonly List<ISubscriber> subscribers = [];
+        public Dictionary<string, List<IDevice>> Rooms { get; private set; } = [];
+        public IDevice? SelectedDevice { get; private set; }
 
-        private IDevice? selectedDevice = null;
+        private readonly List<ISubscriber> subscribers = [];
 
         private static ControlService? _instance = null;
 
@@ -21,22 +24,33 @@ namespace SmartHome.ControlPanel.Service
             return _instance;
         }
 
-        public void AddSubscriber(ISubscriber subscriber) {
-            subscribers.Add(subscriber);
-        }
+        public void AddDevice(string roomName, IDevice device)
+        {
+            if (!Rooms.ContainsKey(roomName))
+            {
+                Rooms[roomName] = new List<IDevice>();
+            }
 
-        public void RemoveSubscriber() { }
+            Rooms[roomName].Add(device);
+            Next();
+        }
 
         public void SelectDevice(IDevice? device)
         {
-            selectedDevice = device;
+            SelectedDevice = device;
+            Next();
+        }
+        public void AddSubscriber(ISubscriber subscriber)
+        {
+            subscribers.Add(subscriber);
+        }
 
+        private void Next()
+        {
             subscribers.ForEach((subscriber) =>
             {
-                subscriber.Update(selectedDevice);
+                subscriber.Update(this);
             });
-
-            Console.WriteLine(selectedDevice?.ToString());
         }
     }
 }

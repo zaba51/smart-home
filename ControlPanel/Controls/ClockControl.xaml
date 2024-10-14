@@ -11,6 +11,6 @@
                    TextWrapping="Wrap" 
                    Text="{Binding DateText }"
                    FontSize="20"
-                   VerticalAlignment="Top"
-                   FontFamily="Technic"/>
+                   Margin="10"
+                   VerticalAlignment="Top"/>
 </UserControl>

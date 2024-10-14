@@ -36,3 +36,7 @@ C:\Users\Adrian\source\repos\SmartHome\obj\Debug\net8.0-windows\ControlPanel\Con
 C:\Users\Adrian\source\repos\SmartHome\obj\Debug\net8.0-windows\ControlPanel\Controls\AutoControl.baml
 C:\Users\Adrian\source\repos\SmartHome\obj\Debug\net8.0-windows\ControlPanel\Controls\ColorControl.g.cs
 C:\Users\Adrian\source\repos\SmartHome\obj\Debug\net8.0-windows\ControlPanel\Controls\ColorControl.baml
+C:\Users\Adrian\source\repos\SmartHome\obj\Debug\net8.0-windows\ControlPanel\DevicePanel\DevicePanelControl.g.cs
+C:\Users\Adrian\source\repos\SmartHome\obj\Debug\net8.0-windows\ControlPanel\DevicePanel\DevicePanelControl.baml
+C:\Users\Adrian\source\repos\SmartHome\obj\Debug\net8.0-windows\ControlPanel\Controls\VideoCameraControl.g.cs
+C:\Users\Adrian\source\repos\SmartHome\obj\Debug\net8.0-windows\ControlPanel\Controls\VideoCameraControl.baml

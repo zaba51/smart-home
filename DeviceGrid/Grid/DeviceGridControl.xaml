@@ -16,13 +16,13 @@
                     <ItemsControl.ItemTemplate>
                         <DataTemplate>
                             <StackPanel>
-                                <TextBlock Text="{Binding Key}" 
+                                <TextBlock Text="{Binding Name}" 
                                            FontWeight="Bold" 
                                            FontSize="18" 
                                            Foreground="White"
                                            Margin="0, 10, 0, 0"/>
 
-                                <ItemsControl ItemsSource="{Binding Value}">
+                                <ItemsControl ItemsSource="{Binding Widgets}">
                                     <ItemsControl.ItemsPanel>
                                         <ItemsPanelTemplate>
                                             <WrapPanel />

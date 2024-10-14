@@ -1,54 +1,59 @@
-﻿using SmartHome.ControlPanel.AutoController;
+﻿using SmartHome.ControlPanel;
+using SmartHome.ControlPanel.AutoController;
 using SmartHome.ControlPanel.Service;
 using SmartHome.DeviceGrid.Widget;
 using SmartHome.Devices;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace SmartHome.DeviceGrid.Grid
 {
-    public class DeviceGrid
+    public class DeviceGrid: ISubscriber, INotifyPropertyChanged
     {
-        //public ObservableCollection<IWidget> Widgets { get; private set; }
-        public Dictionary<string, ObservableCollection<IWidget>> Rooms { get; private set; }
+        public ObservableCollection<Room> Rooms { get; private set; }
 
         private readonly IControlService _controlService;
+
+        public event PropertyChangedEventHandler? PropertyChanged;
 
         public DeviceGrid(IControlService controlService)
         {
             _controlService = controlService;
-            //Widgets = [];
-            Rooms = new Dictionary<string, ObservableCollection<IWidget>>();
+            _controlService.AddSubscriber(this);
+
+            Rooms = new ObservableCollection<Room>();
 
             var controller = new AutoController();
 
             var deviceFactory = new DeviceFactory(controller);
-            AddDeviceToRoom("Room1", deviceFactory.CreateLEDLight());
-            AddDeviceToRoom("Room1", deviceFactory.CreateThermostat());
-            AddDeviceToRoom("Room1", deviceFactory.CreateVideoCamera());
-            AddDeviceToRoom("Room1", deviceFactory.CreateClock());
-
-            AddDeviceToRoom("Room2", deviceFactory.CreateLEDLight());
-            AddDeviceToRoom("Room2", deviceFactory.CreateThermostat());
-            AddDeviceToRoom("Room2", deviceFactory.CreateVideoCamera());
-            AddDeviceToRoom("Room2", deviceFactory.CreateClock());
+            //AddDeviceToRoom("Room1", deviceFactory.CreateLEDLight());
+            //AddDeviceToRoom("Room2", deviceFactory.CreateClock());
         }
 
-        public void AddDeviceToRoom(string roomName, IDevice device)
+        private void AddDeviceToRoom(string roomName, IDevice device)
         {
+            var room = Rooms.FirstOrDefault(r => r.Name == roomName);
+            if (room == null)
+            {
+                room = new Room(roomName);
+                Rooms.Add(room);
+            }
+
             var widget = new DeviceWidget(device);
             widget.OnClickEvent += OnWidgetSelected;
 
-            if (!Rooms.ContainsKey(roomName))
+            var isDeviceIncluded = room.Widgets.Select(w => w.GetComponent()).Contains(device);
+            if (!isDeviceIncluded)
             {
-                Rooms[roomName] = new ObservableCollection<IWidget>();
+                room.Widgets.Add(widget);
             }
 
-            Rooms[roomName].Add(widget);
+            OnPropertyChanged(nameof(Rooms));
         }
 
         public void OnWidgetSelected(IWidget widget)
@@ -56,7 +61,7 @@ namespace SmartHome.DeviceGrid.Grid
             // TODO handle disabled state
             foreach (var room in Rooms)
             {
-                foreach (var w in room.Value)
+                foreach (var w in room.Widgets)
                 {
                     if (w != widget)
                         w.Deselect();
@@ -71,6 +76,21 @@ namespace SmartHome.DeviceGrid.Grid
             {
                 _controlService.SelectDevice(null);
             }
+        }
+
+        public void Update(IControlService service)
+        {
+            foreach (var (room, devices) in service.Rooms)
+            {
+                foreach (var device in devices)
+                {
+                    AddDeviceToRoom(room, device);
+                }
+            }
+        }
+        protected virtual void OnPropertyChanged(string propertyName)
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
     }
 }

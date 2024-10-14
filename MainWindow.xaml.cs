@@ -1,4 +1,7 @@
-﻿using SmartHome.ControlPanel.Service;
+﻿using SmartHome.ControlPanel;
+using SmartHome.ControlPanel.AutoController;
+using SmartHome.ControlPanel.DevicePanel;
+using SmartHome.ControlPanel.Service;
 using SmartHome.DeviceGrid;
 using SmartHome.Devices;
 using System.Text;
@@ -19,15 +22,22 @@ namespace SmartHome
     /// </summary>
     public partial class MainWindow : Window
     {
+        public DevicePanel DevicePanel { get; private set; }
+        public ControlPanel.ControlPanel ControlPanel { get; private set; }
+
         public MainWindow()
         {
             InitializeComponent();
+            var autoController = new AutoController();
+            DevicePanel = new DevicePanel(autoController);
+            ControlPanel = new ControlPanel.ControlPanel(autoController);
+
+            DataContext = this;
 
             Loaded += MainWindow_Loaded;
         }
         private void MainWindow_Loaded(object sender, RoutedEventArgs e)
         {
-
         }
     }
 }

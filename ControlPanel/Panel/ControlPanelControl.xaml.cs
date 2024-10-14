@@ -30,13 +30,13 @@ namespace SmartHome.ControlPanel.Panel
         public ControlPanelControl()
         {
             InitializeComponent();
-            SetupControlPanel();
+
+            this.Loaded += DevicePanelControl_Loaded;
         }
 
-        private void SetupControlPanel()
+        private void DevicePanelControl_Loaded(object sender, RoutedEventArgs e)
         {
-            _controlPanel = new ControlPanel();
-            DataContext = _controlPanel;
+            _controlPanel = DataContext as ControlPanel;
         }
     }
 }
